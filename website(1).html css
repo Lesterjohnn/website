@@ -1,0 +1,133 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>MarhsUniform</title>
+<head>
+<style>
+.body{font: 1.5 Arial ;
+padding:0;
+margin:0;
+background-color: white;}
+
+.container{width:80%;
+margin:auto;
+overflow:hidden;}
+
+.button_01{height:38px;
+background:#0099ff;
+boarder: 0
+padding-left:20px;
+padding-right:20px;
+color:white;}
+
+header{background:black;
+padding-top:30
+min-height:70px;
+border-bottom:#0099ff 3px solid;}
+
+header #branding h1{margin:0;}
+
+.header img {width:60px;
+height:auto;
+padding-left:105px;}
+
+#showcase {min-height:300px;
+background-color:yellow;
+text-align:center;
+color:black;
+border-bottom:#0099ff 3px solid;}
+
+#marquee{color:black;
+font-size: 25px;}
+
+#showcase h1 {margin-top:100px;
+font-size:40px;
+margin-bottom:10px;}
+
+#branding{padding:15px;
+color:white;
+background:black;}
+
+#branding form {float:center;
+margin-top:15px;}
+
+#branding input [type="submit"] 
+{padding:4px;
+height:25px;
+width:250px;}
+
+#boxes{margin-top:20px;
+border: gray 3px solid;}
+#boxes .box{text-align:center}
+
+footer{padding:20px;
+margin-top:20px;
+color:black;
+background-color:#0099ff;
+text-align:center;}
+
+header{padding-bottom:20px;}
+
+#showcase h1  
+
+
+#pricelist button{display:block;
+width:100%;}
+
+#pricelist form input[type="submit"]
+{width:100%;
+margin-bottom:5px;
+border:none;}
+</style>
+<body>
+<header>
+<div class="container">
+<div id="branding">
+<div class="header">
+<h1><img src="pixellab/20230622_152431.png" alt="logo"/></h1>
+</div>
+</div>
+</header>
+<section id="showcase">
+<div class="container">
+<h1>Marhsuniform</h1>
+<div id="marquee">
+<marquee behavior="scroll" direction="left;">
+<h2>Website for manuel a roxas senior highschool students uniform&nbsp;&nbsp;&nbsp;</h2>
+</marquee>
+</div>
+</div>
+</section>
+<section id="Branding">
+<div class="container">
+<h1> Wearing the manuel A roxas Senior highschool Uniform will make you presentable and
+proper</h1>
+<button type="Submit" class="button_01">Pricelist</button>
+</form>
+</div>
+</section>
+<section id="boxes">
+<div class="container">
+<div class="box">
+<h3>this is the size chart of manuel roxas senior highschool
+uniform</h3>
+<h4><img src="pixellab/20230622_173650.jpg" alt="chart"/></h4>
+<p> Please Choose the exact uniform size for you</p>
+</div>
+<div class="box">
+<h3>Uniform design for male and female"</h3>
+<h4><img src="remini/1687428328817.jpg" alt="Male Torso"/></h4>
+<h4><img src=" remini/1687428155570.jph" alt="male pants"/></h4>
+<h4><img src="pixellab/20230622_182415.jpg" alt ="female torso"/></h4>
+<h4><img src="remini/1687429645376.jpg" alt ="female skirt"/></h4>
+<p>this is the style of the uniform for senior high school student</p>
+</div>
+</div>
+</section>
+<footer>
+<p>Please contact The facebook page of manuel a roxas for inquiries</p>
+</footer>
+</body>
+</html>
+
